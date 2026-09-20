@@ -541,6 +541,7 @@ It acts as an actively maintained alternative to older lists like [abhisheknaiid
 - [pr2tik1](https://github.com/pr2tik1)
 - [Rishit-dagli](https://github.com/Rishit-dagli)
 - [ShaanCoding](https://github.com/ShaanCoding)
+- [XiaoSong1223](https://github.com/XiaoSong1223)
 
 ## Articles
 
