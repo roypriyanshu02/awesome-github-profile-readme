@@ -453,6 +453,7 @@ It acts as an actively maintained alternative to older lists like [abhisheknaiid
 ### Game
 
 - [ethomson](https://github.com/ethomson)
+- [IshanArdithya](https://github.com/IshanArdithya)
 - [kylepls](https://github.com/kylepls)
 - [timburgan](https://github.com/timburgan)
 
