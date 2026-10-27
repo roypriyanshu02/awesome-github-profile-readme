@@ -563,6 +563,7 @@ It acts as an actively maintained alternative to older lists like [abhisheknaiid
 - [Github Readme stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your GitHub README.
 - [GitHub stat trophies](https://github.com/ryo-ma/github-profile-trophy) - Add dynamically generated GitHub Stat Trophies.
 - [GitHub Stats Card](https://github.com/astra-intelligence/github-stats-card) - Dynamically generated stats cards for your GitHub README, showcasing contributions, streaks, and language stats. [Website](https://astra-intelligence.github.io/github-stats-card/).
+- [GitHubCard](https://githubcard.com/) - Drag-and-drop designer for GitHub profile cards with live stats, streak and language widgets; embed as SVG or export PNG.
 - [Markdown badges](https://ileriayo.github.io/markdown-badges/) - Add badges to your profile and project READMEs.
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - A quick reference markdown cheatsheet.
 - [Markdown editor](https://dillinger.io/) - Live online markdown editor.
