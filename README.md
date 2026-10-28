@@ -568,6 +568,7 @@ It acts as an actively maintained alternative to older lists like [abhisheknaiid
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - A quick reference markdown cheatsheet.
 - [Markdown editor](https://dillinger.io/) - Live online markdown editor.
 - [Readme typing animation](https://readme-typing-svg.demolab.com/demo/) - SVG widget that simulates typing and deleting text.
+- [Readme X Cards](https://github.com/seuthootDev/readme-x-cards) - X (Twitter) profile, latest post and multi-post cards for your README, with six themes and light/dark mode. [Website](https://readme-x-cards.vercel.app).
 - [Streak stats](https://streak-stats.demolab.com/demo/) - Display total contributions and contribution streaks on your profile README.
 - [SVG icons](https://simpleicons.org/) - Over 2,400 free SVG icons of popular brands.
 
