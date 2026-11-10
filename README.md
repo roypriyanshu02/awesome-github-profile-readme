@@ -335,6 +335,7 @@ It acts as an actively maintained alternative to older lists like [abhisheknaiid
 - [SuperSupeng](https://github.com/SuperSupeng)
 - [terrytangyuan](https://github.com/terrytangyuan)
 - [trinib](https://github.com/trinib)
+- [Wired-Navi0x17](https://github.com/Wired-Navi0x17)
 
 ### Badges/Icons
 
