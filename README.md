@@ -328,6 +328,7 @@ It acts as an actively maintained alternative to older lists like [abhisheknaiid
 - [fnky](https://github.com/fnky)
 - [lowlighter](https://github.com/lowlighter)
 - [MasonSlover](https://github.com/MasonSlover)
+- [morgan-mordata](https://github.com/morgan-mordata)
 - [nitr0yukkuri](https://github.com/nitr0yukkuri)
 - [Platane](https://github.com/Platane)
 - [RaghavK16](https://github.com/RaghavK16)
