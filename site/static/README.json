@@ -3940,6 +3940,20 @@
 							{
 								"children": [
 									{
+										"value": "morgan-mordata"
+									}
+								],
+								"props": {
+									"href": "https://github.com/morgan-mordata"
+								}
+							}
+						]
+					},
+					{
+						"children": [
+							{
+								"children": [
+									{
 										"value": "nitr0yukkuri"
 									}
 								],
@@ -6731,7 +6745,7 @@
 		"contribute": "Contributions are welcome! Read the [Contributing Guide](CONTRIBUTING.md) to get started.",
 		"license": "This project is dual-licensed under the following terms:\n- **Source Code:** [MIT License](https://opensource.org/licenses/MIT)\n- **Documentation & Data:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)\nSee [LICENSE](LICENSE) for details."
 	},
-	"lastModified": 1794302339370,
+	"lastModified": 1794494108692,
 	"starsMap": {
 		"aakarsh-b": 0,
 		"abhishek-choudharys": 0,
@@ -7012,6 +7026,7 @@
 		"fnky": 0,
 		"lowlighter": 0,
 		"masonslover": 0,
+		"morgan-mordata": 0,
 		"nitr0yukkuri": 0,
 		"platane": 0,
 		"raghavk16": 0,
@@ -7202,9 +7217,9 @@
 		"xiaosong1223": 0
 	},
 	"repoStats": {
-		"stars": 197,
+		"stars": 198,
 		"open_issues": 0,
 		"open_prs": 0,
-		"forks": 42
+		"forks": 43
 	}
 }
