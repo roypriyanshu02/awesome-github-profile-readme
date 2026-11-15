@@ -435,6 +435,7 @@ It acts as an actively maintained alternative to older lists like [abhisheknaiid
 - [Aveek-Saha](https://github.com/Aveek-Saha)
 - [blackcater](https://github.com/blackcater)
 - [codestackr](https://github.com/codestackr)
+- [craig-o-curtis](https://github.com/craig-o-curtis)
 - [cxyfreedom](https://github.com/cxyfreedom)
 - [imskr](https://github.com/imskr)
 - [jgphilpott](https://github.com/jgphilpott)
