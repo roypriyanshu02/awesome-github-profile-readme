@@ -5626,6 +5626,20 @@
 							{
 								"children": [
 									{
+										"value": "RizgarOzan"
+									}
+								],
+								"props": {
+									"href": "https://github.com/RizgarOzan"
+								}
+							}
+						]
+					},
+					{
+						"children": [
+							{
+								"children": [
+									{
 										"value": "timburgan"
 									}
 								],
@@ -6759,7 +6773,7 @@
 		"contribute": "Contributions are welcome! Read the [Contributing Guide](CONTRIBUTING.md) to get started.",
 		"license": "This project is dual-licensed under the following terms:\n- **Source Code:** [MIT License](https://opensource.org/licenses/MIT)\n- **Documentation & Data:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)\nSee [LICENSE](LICENSE) for details."
 	},
-	"lastModified": 1794764703753,
+	"lastModified": 1794835078889,
 	"starsMap": {
 		"aakarsh-b": 0,
 		"abhishek-choudharys": 0,
@@ -7154,6 +7168,7 @@
 		"ethomson": 0,
 		"ishanardithya": 0,
 		"kylepls": 0,
+		"rizgarozan": 0,
 		"timburgan": 0,
 		"afc163": 0,
 		"alirealasad": 0,
@@ -7232,9 +7247,9 @@
 		"xiaosong1223": 0
 	},
 	"repoStats": {
-		"stars": 199,
+		"stars": 200,
 		"open_issues": 0,
 		"open_prs": 0,
-		"forks": 44
+		"forks": 45
 	}
 }
