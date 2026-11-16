@@ -460,6 +460,7 @@ It acts as an actively maintained alternative to older lists like [abhisheknaiid
 - [ethomson](https://github.com/ethomson)
 - [IshanArdithya](https://github.com/IshanArdithya)
 - [kylepls](https://github.com/kylepls)
+- [RizgarOzan](https://github.com/RizgarOzan)
 - [timburgan](https://github.com/timburgan)
 
 ### Image
