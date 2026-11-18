@@ -519,6 +519,7 @@ It acts as an actively maintained alternative to older lists like [abhisheknaiid
 
 ### Interactive
 
+- [ashzaeen](https://github.com/ashzaeen)
 - [Coordinate-Cat](https://github.com/Coordinate-Cat)
 - [DenverCoder1](https://github.com/DenverCoder1)
 
