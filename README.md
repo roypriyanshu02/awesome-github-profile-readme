@@ -326,6 +326,7 @@ It acts as an actively maintained alternative to older lists like [abhisheknaiid
 - [BrunnerLivio](https://github.com/BrunnerLivio)
 - [darshan-jain](https://github.com/darshan-jain)
 - [fnky](https://github.com/fnky)
+- [l41n-pr0t0](https://github.com/l41n-pr0t0)
 - [lowlighter](https://github.com/lowlighter)
 - [MasonSlover](https://github.com/MasonSlover)
 - [morgan-mordata](https://github.com/morgan-mordata)
@@ -337,7 +338,6 @@ It acts as an actively maintained alternative to older lists like [abhisheknaiid
 - [SuperSupeng](https://github.com/SuperSupeng)
 - [terrytangyuan](https://github.com/terrytangyuan)
 - [trinib](https://github.com/trinib)
-- [Wired-Navi0x17](https://github.com/Wired-Navi0x17)
 
 ### Badges/Icons
 
