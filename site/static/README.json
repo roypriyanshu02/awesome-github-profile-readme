@@ -3912,6 +3912,20 @@
 							{
 								"children": [
 									{
+										"value": "l41n-pr0t0"
+									}
+								],
+								"props": {
+									"href": "https://github.com/l41n-pr0t0"
+								}
+							}
+						]
+					},
+					{
+						"children": [
+							{
+								"children": [
+									{
 										"value": "lowlighter"
 									}
 								],
@@ -4057,20 +4071,6 @@
 								],
 								"props": {
 									"href": "https://github.com/trinib"
-								}
-							}
-						]
-					},
-					{
-						"children": [
-							{
-								"children": [
-									{
-										"value": "Wired-Navi0x17"
-									}
-								],
-								"props": {
-									"href": "https://github.com/Wired-Navi0x17"
 								}
 							}
 						]
@@ -6787,7 +6787,7 @@
 		"contribute": "Contributions are welcome! Read the [Contributing Guide](CONTRIBUTING.md) to get started.",
 		"license": "This project is dual-licensed under the following terms:\n- **Source Code:** [MIT License](https://opensource.org/licenses/MIT)\n- **Documentation & Data:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)\nSee [LICENSE](LICENSE) for details."
 	},
-	"lastModified": 1795199638687,
+	"lastModified": 1795199763081,
 	"starsMap": {
 		"aakarsh-b": 0,
 		"abhishek-choudharys": 0,
@@ -7066,6 +7066,7 @@
 		"brunnerlivio": 0,
 		"darshan-jain": 0,
 		"fnky": 0,
+		"l41n-pr0t0": 0,
 		"lowlighter": 0,
 		"masonslover": 0,
 		"morgan-mordata": 0,
@@ -7077,7 +7078,6 @@
 		"supersupeng": 0,
 		"terrytangyuan": 0,
 		"trinib": 0,
-		"wired-navi0x17": 0,
 		"abhijoshi2k": 0,
 		"achyutghosh": 0,
 		"adamalston": 0,
@@ -7264,7 +7264,7 @@
 	"repoStats": {
 		"stars": 200,
 		"open_issues": 0,
-		"open_prs": 1,
+		"open_prs": 0,
 		"forks": 45
 	}
 }
